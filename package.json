@@ -19,7 +19,7 @@
 		"esbuild": "^0.19.2",
 		"esbuild-copy-static-files": "^0.1.0",
 		"eslint": "^8.47.0",
-		"eslint-config-prettier": "^9.0.0",
+		"eslint-config-prettier": "^9.1.0",
 		"glob": "^10.3.3",
 		"prettier": "^3.0.2",
 		"react": "^18.2.0",
