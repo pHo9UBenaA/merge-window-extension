@@ -9,7 +9,7 @@
 		"lint:fix": "pnpm run _lint --fix; pnpm run _prettier --write \".\""
 	},
 	"devDependencies": {
-		"@chakra-ui/icons": "^2.1.0",
+		"@chakra-ui/icons": "^2.2.4",
 		"@chakra-ui/react": "^2.8.0",
 		"@types/chrome": "^0.0.243",
 		"@types/react": "^18.2.20",
