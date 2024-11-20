@@ -11,7 +11,7 @@
 	"devDependencies": {
 		"@chakra-ui/icons": "^2.1.0",
 		"@chakra-ui/react": "^2.8.0",
-		"@types/chrome": "^0.0.243",
+		"@types/chrome": "^0.0.283",
 		"@types/react": "^18.2.20",
 		"@types/react-dom": "^18.2.7",
 		"@types/uuid": "^9.0.2",
